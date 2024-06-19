@@ -28,9 +28,7 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iam-narasimhasai.iam-narasimhasai&left_text=visitors"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iam-narasimhasai.iam-narasimhasai&left_text=visitors"  />
 
 ###
 
