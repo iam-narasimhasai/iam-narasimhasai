@@ -51,11 +51,11 @@
 
 <br clear="both">
 
-<img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+<!--<img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />-->
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=iam-narasimhasai&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="240" alt="streak graph"  />
 </div>
 
